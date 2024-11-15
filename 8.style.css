@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.flex-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    border: 2px solid;
+}
+
+.flex-child{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    border: 1px solid;
+}
